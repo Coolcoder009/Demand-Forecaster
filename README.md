@@ -4,5 +4,5 @@ Link to the site https://demand-forecasting-rmok.onrender.com/
 This site is the forecasted results for the dataset uploaded.<br><br>
 ![UI Page](https://raw.githubusercontent.com/Coolcoder009/Demand-Forecaster/main/Visualization.png)
 
-![UI Page](https://github.com/Coolcoder009/Machine-Learning-Projects/blob/main/Demand_Forecasting/Visualization.png?raw=true)
+![UI Page](https://github.com/Coolcoder009/Demand-Forecaster/blob/main/Screenshot%202024-04-17%20180711.jpg?raw=true)
 
